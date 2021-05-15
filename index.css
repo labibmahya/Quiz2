@@ -1,0 +1,48 @@
+body{
+    background-image: url('4494323.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.container{
+    position: absolute;
+    left: 37%;
+    top: 25%;
+    padding: 20px 25px;
+    width: 300px;
+    height: 250px;
+    background-color: rgba(0, 0, 0, 0.63);
+    box-shadow: 0px 0px 5px rgba(255,255,255,.3);
+    border-radius: 3%;
+}
+
+.form{
+    display: grid;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-weight: 1000;
+}
+
+.kolom{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+    padding: 5px 0 5px 10px;
+    border-radius: 8px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid #281c99ec;
+    font-size: 16px;
+    color: white;
+}
+
+.button{
+    background-color:  black;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.096);
+    border: rgba(0, 0, 0, 0.315);
+    padding: 5px 0 5px 0px;
+    color: white;
+    font-weight: 1000;
+}
